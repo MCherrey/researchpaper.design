@@ -1,0 +1,126 @@
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 200%;
+  text-align: center;
+
+}
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 230%;
+  text-align: center;
+  background-color: white;
+  margin-top: auto;
+  margin-bottom: auto;
+  padding-top: 20px;
+  /*padding-top: 4px;*/
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 150%;
+  text-align: center;
+}
+p {
+  font-weight: 300;
+  font-family: 'Montserrat', sans-serif;
+  text-align: center;
+  opacity: inherit;
+
+}
+
+.Row
+{
+    display: table;
+    height: auto;
+    width: 100%;
+    table-layout: fixed;
+    border-spacing: 10px;
+    padding-top: 15px;
+    background-color: white;
+}
+.Column
+{
+    display: table-cell;
+    word-wrap: break-word;
+    width: auto;
+
+    /*opacity: 0;*/
+}
+.AltColumn
+{
+    display: table-cell;
+    word-wrap: break-word;
+    width: auto;
+    opacity: 0;
+}
+
+.imagecol{
+  opacity: inherit;
+}
+
+img {
+  display: block;
+  margin: auto;
+}
+.HeadingImage{
+  height:65%;
+  overflow: hidden;
+
+}
+.Container{
+  height: 100vh
+  /*opacity: 0*/
+  /*display:none;*/
+}
+.Picture{
+  overflow: auto;
+}
+body, html {
+    height: 100%;
+}
+
+
+.parallaxone {
+    /* The image used */
+    background-image: url("./IMG/trans_jour_Page_1.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.parallaxtwo {
+    /* The image used */
+    background-image: url("./IMG/trans_jour_Page_2.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line{
+  width: 100%;
+  height:1px;
+  background-color:#999999;
+}
+.parallaxthree {
+    /* The image used */
+    background-image: url("./IMG/trans_jour_Page_7.jpg");
+
+    /* Full height */
+    height: 100%;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

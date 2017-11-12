@@ -1,0 +1,9 @@
+General Page layout
+The paper size is 8.5" x 11" with 0.83" top margins, 0.25" bottom margins, 0.5" inside margins, and 0.42" outside margins.
+The Double Columns have widths 3.39" and 0.17" spacing
+Headers have The Journal name and manuscript ID on the left, and the page number on the right (first page included)
+
+Content Formatting
+Times New Roman 10pt. First headers are centered and are all-caps while second level headers are justified left and in italics.
+The body font is 9.5 Times New Roman. Links use Arial and
+Images and Graphics must have captions written in 8pt Helvetica. Equations are written in Latex, rendered, then inserted as an image.
